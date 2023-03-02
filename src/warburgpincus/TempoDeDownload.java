@@ -1,4 +1,4 @@
-package desafios;
+package warburgpincus;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
